@@ -1,1 +1,1 @@
-# devnet-inventory-api
+DEVNET
